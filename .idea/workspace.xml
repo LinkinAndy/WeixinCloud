@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3474e36f-0173-4b8a-a61b-d432f3fdf6ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="Gherkin feature file" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z53I9M1FcbHlujW3yUb3Kr5wQp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/repair" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/repair" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="repairXcx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="repairXcx" type="Python.FlaskServer">
+      <module name="repairXcx" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.repairXcx" />
+      <item itemvalue="Python.app" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3474e36f-0173-4b8a-a61b-d432f3fdf6ce" name="Default Changelist" comment="" />
+      <created>1584115044224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584115044224</updated>
+      <workItem from="1584115054126" duration="1921000" />
+      <workItem from="1584257286666" duration="2145000" />
+      <workItem from="1584259893626" duration="19589000" />
+      <workItem from="1584500113525" duration="11000" />
+      <workItem from="1584505916266" duration="1910000" />
+      <workItem from="1584606783443" duration="1297000" />
+      <workItem from="1584701811911" duration="3715000" />
+      <workItem from="1584752543166" duration="1111000" />
+      <workItem from="1584753910327" duration="542000" />
+      <workItem from="1584776754433" duration="805000" />
+      <workItem from="1584953424076" duration="8875000" />
+      <workItem from="1585038351506" duration="11000" />
+      <workItem from="1585045901742" duration="2095000" />
+      <workItem from="1585136174579" duration="6029000" />
+      <workItem from="1585296694521" duration="143000" />
+      <workItem from="1585296919317" duration="42000" />
+      <workItem from="1585313566386" duration="29000" />
+      <workItem from="1585320862107" duration="28000" />
+      <workItem from="1585480266520" duration="374000" />
+      <workItem from="1585575210882" duration="5947000" />
+      <workItem from="1585708993334" duration="3477000" />
+      <workItem from="1585736939052" duration="122000" />
+      <workItem from="1585737864598" duration="6900000" />
+      <workItem from="1585836299789" duration="638000" />
+      <workItem from="1585885416242" duration="2006000" />
+      <workItem from="1585902636881" duration="5347000" />
+      <workItem from="1586009259518" duration="6248000" />
+      <workItem from="1586102713395" duration="3314000" />
+      <workItem from="1586149136687" duration="158000" />
+      <workItem from="1586163177036" duration="10550000" />
+      <workItem from="1586351830389" duration="1175000" />
+      <workItem from="1586520192128" duration="11068000" />
+      <workItem from="1587043822230" duration="670000" />
+      <workItem from="1587115019676" duration="1171000" />
+      <workItem from="1587267520180" duration="268000" />
+      <workItem from="1587299533047" duration="836000" />
+      <workItem from="1587303584644" duration="1504000" />
+      <workItem from="1587431312608" duration="8080000" />
+      <workItem from="1587887081552" duration="740000" />
+      <workItem from="1587910899696" duration="37000" />
+      <workItem from="1587911060962" duration="36000" />
+      <workItem from="1587912586039" duration="2178000" />
+      <workItem from="1588062659802" duration="2612000" />
+      <workItem from="1588215676057" duration="606000" />
+      <workItem from="1588261172001" duration="165000" />
+      <workItem from="1588911866142" duration="1319000" />
+      <workItem from="1589008310245" duration="2458000" />
+      <workItem from="1589117750063" duration="639000" />
+      <workItem from="1589368243413" duration="151000" />
+      <workItem from="1589368411917" duration="2946000" />
+      <workItem from="1589796699424" duration="1640000" />
+      <workItem from="1589848535551" duration="566000" />
+      <workItem from="1589891196802" duration="28000" />
+      <workItem from="1589891258599" duration="45000" />
+      <workItem from="1590503290755" duration="1583000" />
+      <workItem from="1591087063636" duration="1248000" />
+      <workItem from="1593699690932" duration="2851000" />
+      <workItem from="1593827626612" duration="14000" />
+      <workItem from="1594097686242" duration="586000" />
+      <workItem from="1594299690673" duration="59000" />
+      <workItem from="1595518333405" duration="159000" />
+      <workItem from="1595670934462" duration="2145000" />
+      <workItem from="1596423530554" duration="156000" />
+      <workItem from="1596440324618" duration="1302000" />
+      <workItem from="1596707647645" duration="351000" />
+      <workItem from="1596708024782" duration="3804000" />
+      <workItem from="1597028287720" duration="4000" />
+      <workItem from="1597045919230" duration="618000" />
+      <workItem from="1597894525257" duration="1280000" />
+      <workItem from="1597908034635" duration="13611000" />
+      <workItem from="1597994876568" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597908097548">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1597908097548" />
+    <state width="1398" height="285" key="GridCell.Tab.0.bottom" timestamp="1597935893368">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597935893368" />
+    <state width="1398" height="285" key="GridCell.Tab.0.center" timestamp="1597935893367">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597935893367" />
+    <state width="1398" height="285" key="GridCell.Tab.0.left" timestamp="1597935893366">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597935893366" />
+    <state width="1398" height="285" key="GridCell.Tab.0.right" timestamp="1597935893367">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597935893367" />
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1597935893370">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597935893370" />
+    <state width="1398" height="285" key="GridCell.Tab.1.center" timestamp="1597935893369">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1597935893369" />
+    <state width="1398" height="285" key="GridCell.Tab.1.left" timestamp="1597935893369">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1597935893369" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right" timestamp="1597935893369">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1597935893369" />
+    <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597925708747">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1597925708747" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1597994876814">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1597994876814" />
+    <state x="378" y="218" width="683" height="486" key="find.popup" timestamp="1597926785982">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="378" y="218" width="683" height="486" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1597926785982" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/repair/repair.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/api/api.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/api/api.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/repair/repair.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/repairXcx$repairXcx.coverage" NAME="repairXcx Coverage Results" MODIFIED="1597908058244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/repairXcx$app.coverage" NAME="app Coverage Results" MODIFIED="1597926331791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
